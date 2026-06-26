@@ -7,3 +7,5 @@ Results/COAD_Signatures/**/*.csv
 Results/LUAD_Signatures/**/*.csv
 !Results/COAD_Signatures/**/*.pdf
 !Results/LUAD_Signatures/**/*.pdf
+Results/COAD_Signatures/SBS96/All_Solutions/
+Results/LUAD_Signatures/SBS96/All_Solutions/

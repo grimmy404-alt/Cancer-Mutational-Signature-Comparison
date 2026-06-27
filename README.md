@@ -4,8 +4,8 @@ Comparative analysis of SBS mutational signatures between Lung Adenocarcinoma
 (LUAD) and Colorectal Adenocarcinoma (COAD) using public TCGA somatic mutation 
 data and open-source bioinformatics tools.
 
-Internship Project — BioTechTrek | June 2026  
-Student: Nilesh Ghosh | St. Xavier's College, Burdwan
+Internship Project | June 2026  
+Nilesh Ghosh | St. Xavier's College, Burdwan
 
 ---
 

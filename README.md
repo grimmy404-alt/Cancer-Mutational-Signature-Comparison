@@ -63,7 +63,7 @@ Factorization (NMF), then matched against the COSMIC SBS v3.5 reference library.
 | Input type | Matrix (SBS96) |
 | Reference genome | GRCh38 |
 | COSMIC version | v3.5 |
-| Signature range | 1–6 |
+| Signature range | 1–10 |
 | NMF replicates | 10 |
 | CPU cores | 2 |
 | Optimal solution — LUAD | 3 signatures |
